@@ -3,15 +3,14 @@
 
 ## Idea
 
-Simple two v-pane editor to live preview plantuml text with image output. Native application, quicker preview (with nailgun server)
+Simple two pane UI with editor and live preview plantuml text with image output. OSX Native application, quicker preview (with Java Nailgun Server)
 
-## MVP-TODO
+## MVP ~~TODO~~
 
   - [x] Editor & Viewer UI
   - [x] ~~Config - nailgun/jar config~~ bundle both jars
   - [x] Live Preview
   - [x] ~~Option to save image~~ autosave same path as source 
-
 
  
 ![MVP UI](assets/screenshot.png)
@@ -26,3 +25,12 @@ Simple two v-pane editor to live preview plantuml text with image output. Native
   - [ ] Output folder - auto save
   - [ ] Themes
   - [ ] Font
+
+
+
+## Dependencies  Credits
+
+* [PlantUML](http://plantuml.com/)
+* [NailGun Server](http://www.martiansoftware.com/nailgun/)
+* [ZRRImageView](https://github.com/Zorroa/ZRRImageView)
+* [PlantText*](https://www.planttext.com/) for inspiration 
