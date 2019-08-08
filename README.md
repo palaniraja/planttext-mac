@@ -8,9 +8,9 @@ Simple two v-pane editor to live preview plantuml text with image output. Native
 ## MVP-TODO
 
   - [x] Editor & Viewer UI
-  - [ ] Config - nailgun/jar config
+  - [x] ~~Config - nailgun/jar config~~ bundle both jars
   - [x] Live Preview
-  - [x] --Option to save image-- autosave next to source 
+  - [x] ~~Option to save image~~ autosave same path as source 
 
 
  
