@@ -1,5 +1,5 @@
 # PlantText - Mac Native application
-
+[![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.me/palaniraja)
 
 ## Idea
 
@@ -14,6 +14,12 @@ Simple two pane UI with editor and live preview plantuml text with image output.
 
  
 ![MVP UI](assets/screenshot.png)
+
+
+
+## Download
+
+* [Latest build](https://github.com/palaniraja/planttext-mac/releases/latest)
 
 
 ## Backlog
